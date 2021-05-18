@@ -28,7 +28,6 @@ echo
 echo
 echo End of Script
 
-
 xcode-select -p 1>/dev/null;echo $?
 
 if [ $? -eq 0  ]; then
