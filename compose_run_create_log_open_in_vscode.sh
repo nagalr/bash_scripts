@@ -13,7 +13,7 @@ echo
 
 # Variables
 
-# set the docker-compose file location to a variable
+# set the docker-compose file location to a variable (modify to your compose-file-location)
 compose_file_path=/Users/ronnen/Sync/Dev/SpringMicroservices/mssc-beer-service/src/main/docker/local/compose.yaml
 
 # Execution
